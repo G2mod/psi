@@ -1,0 +1,8 @@
+echo -e "\033[1;31m G2-PSI by Nguyen Trung Anh \033[0m"
+echo -e "\033[1;32m Version: T1.0.0\033[0m"
+echo " " 
+echo -e "\033[1;33m[1]: gõ [neko] để tạo hoặc tắt đường hầm VPN\033[0m"
+echo -e "\033[1;33m[1]: gõ [tun] để kết nối server (kết nối internet) \033[0m"
+echo -e "\033[1;36m[2]: Gõ wl để bật chạy nền cho máy yếu hoặc bị văng app\033[0m"
+echo " "
+echo -e "\033[1;33m[Lưu ý]: nếu khởi động bị lỗi hãy gõ: tun (thêm 1 lần nữa) \033[0m"

@@ -1,0 +1,1 @@
+clear && echo "Chú ý: Kích hoạt tính năng này sẽ bật chạy nền, nhưng 1 số máy yếu vẫn sẽ bị tự thoát app nha (Máy mạnh vẫn có thể bị) nên nếu ae máy yếu mà ae muốn xài lâu thì kích hoạt cái này 1 lần, sau đó ko kích hoạt nữa nhaa. Hoặc nếu ae bật lên mà hỏng bị tự thoát thì ae cứ bật thoải mái nhaa" && termux-wake-lock && echo "Đã bật chạy nền" && login && bash

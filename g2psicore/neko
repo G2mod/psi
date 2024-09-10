@@ -1,0 +1,1 @@
+clear && sleep 1s && echo "Đang khởi động hoặc tắt VPN..." && sleep 1s && am start -n moe.nb4a/io.nekohasekai.sagernet.QuickToggleShortcut && sleep 1s && clear && echo "BẬT hoặc TẮT VPN thành công" && login
